@@ -15,6 +15,7 @@ createApp ({
   data(){
     return{
       messaggio:'ciao Vue!',
+      immagine:'img01.jpeg'
     }
   }
 }).mount('#app');
